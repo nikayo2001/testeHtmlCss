@@ -1,0 +1,67 @@
+/*NIKAYO RYAN INACIO SANTOS */
+
+
+.espacamento{
+    margin: 0 2em 0 2em;    
+}
+
+
+.titulo_principal {
+    text-align: center;
+    font-family: cursive;
+    font-size: 35pt;
+    color: rgb(148, 187, 148);
+    text-shadow: 6px 6px 6px black;
+    -webkit-text-stroke: 2px black; 
+}
+
+.foto {
+    margin: auto;
+    width: 1000px;
+    height: 732px;
+    border: 10px solid black;
+  }
+
+html{
+    background:linear-gradient( rgb(121, 170, 216), rgb(184, 185, 194) );
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+
+.subtitulo {
+    text-align: center;
+    font-family: arial;
+    color: black;
+
+}
+
+.foto2 {
+    margin:auto;
+    width: 950px;
+    height: 535px;
+    border: 10px solid black;
+}
+
+.foto3 {
+    margin:auto;
+    width: 800px;
+    height: 493px;
+    border: 10px solid black;
+}
+
+.foto4 {
+    margin:auto;
+    width: 752px;
+    height: 440px;
+    border: 10px solid black;
+}
+
+.direitos {
+    text-align: center;
+    width: 100%;
+    font-family: fantasy;
+    color: black;
+    
+}
